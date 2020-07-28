@@ -1,19 +1,11 @@
-# bam_services
+Bam Services
 
-A new Flutter project.
+Aplikasi ini dibuat untuk mempermudah pelanggan dalam melakukan crosscek
+status barang servisan yg ada di Bam Komputer.
 
-## Getting Started
+Progress :
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-Test aja dulu
+26 Juli 2020 - 03:50 AM
+Melakukan Push Pertama Kali Ke GitHub.
+27 Juli 2020 - 12:25 PM
+Ubah Homescreen
